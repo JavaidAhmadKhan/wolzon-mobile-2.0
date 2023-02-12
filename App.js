@@ -1,12 +1,14 @@
 import { SafeAreaView, StatusBar, StyleSheet } from "react-native";
-// import ProductScreen from "./src/data/screens/ProductScreen";
-import ProductDetailsScreen from "./src/data/screens/ProductDetailsScreen";
+import ShoppingCart from "./src/screens/ShoppingCart";
+// import ProductDetailsScreen from "./src/screens/ProductDetailsScreen";
+// import ProductScreen from "./src/screens/ProductScreen";
 
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-      {/* <ProductScreen /> */}
-      <ProductDetailsScreen />
+      {/* <ProductScreen />
+      <ProductDetailsScreen /> */}
+      <ShoppingCart />
       <StatusBar style="auto" />
     </SafeAreaView>
   );

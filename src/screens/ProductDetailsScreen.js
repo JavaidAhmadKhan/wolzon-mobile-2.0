@@ -5,7 +5,6 @@ import {
   View,
   FlatList,
   useWindowDimensions,
-  SafeAreaView,
   ScrollView,
   Pressable,
 } from "react-native";
