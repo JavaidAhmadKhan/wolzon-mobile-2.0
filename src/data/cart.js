@@ -5,7 +5,7 @@ export default [
       image:
         "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1.png",
       name: "Wild Berry",
-      price: 3660,
+      price: 160,
     },
     size: 42,
     quantity: 2,
@@ -16,7 +16,7 @@ export default [
       image:
         "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2.png",
       name: "Air Force 1",
-      price: 3299,
+      price: 169,
     },
     size: 43,
     quantity: 1,
@@ -27,7 +27,7 @@ export default [
       image:
         "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike3.png",
       name: "Nike Cosmic",
-      price: 2999,
+      price: 129,
     },
     size: 44,
     quantity: 1,

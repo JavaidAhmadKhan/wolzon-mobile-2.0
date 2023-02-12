@@ -8,7 +8,7 @@ import {
   ScrollView,
   Pressable,
 } from "react-native";
-import products from "../products";
+import products from "../data/products";
 
 const ProductDetailsScreen = () => {
   const product = products[0];
