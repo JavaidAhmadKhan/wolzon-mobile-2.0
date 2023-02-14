@@ -60,13 +60,11 @@ const styles = StyleSheet.create({
     fontSize: 34,
     fontWeight: "500",
     marginVertical: 10,
-    color: "#00CCBB",
   },
   price: {
     fontWeight: "500",
     fontSize: 16,
     letterSpacing: 1.5,
-    color: "#00CCBB",
   },
   description: {
     marginVertical: 10,
